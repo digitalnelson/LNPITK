@@ -1,19 +1,25 @@
-This program is part of the University of Minnesota Labratory for
-Neuropsychiatric Imaging Processing Package
+#    This program is part of the University of Minnesota Labratory for
+#    NeuroPsychiatric Imaging ToolKit
+#
+#    LNPITK is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+#    Copyright 2011 Brent Nelson
 
-This is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-- Intro --
 
-Copyright 2011 Brent Nelson
+-- Algorithms --
 
-This is a python implementation of the Network-base statistic proposed by Andrew Zalesky in his paper Network-based statistic: Identifying differences in brain networks.
+This is a python implementation of the Network-base statistic proposed by Andrew Zalesky in his 
+paper Network-based statistic: Identifying differences in brain networks.
 
-Zalesky A, Fornito A, Bullmore ET. Network-based statistic: Identifying differences in brain networks. NeuroImage. 2010. Available at: http://linkinghub.elsevier.com/retrieve/pii/S1053811910008852 [Accessed July 1, 2010].
+Zalesky A, Fornito A, Bullmore ET. Network-based statistic: Identifying differences in brain networks. 
+NeuroImage. 2010. Available at: http://linkinghub.elsevier.com/retrieve/pii/S1053811910008852 [Accessed July 1, 2010].
