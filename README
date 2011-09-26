@@ -16,6 +16,11 @@
 
 -- Intro --
 
+-- Tools --
+
+PyCS - This is an application designed to work with MELODIC (fsl).  It makes it easier to select and remove
+components considered to be noise.
+
 -- Algorithms --
 
 This is a python implementation of the Network-base statistic proposed by Andrew Zalesky in his 
